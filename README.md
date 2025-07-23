@@ -4,7 +4,16 @@
 
 ---
 
+# ✅ DevOps Setup
+<img width="667" height="1324" alt="image" src="https://github.com/user-attachments/assets/ff0891d6-b8db-4445-bb46-809b30791caa" />
 
+# 🔁 CI Pipeline (GitHub Actions)
+<img width="720" height="1305" alt="image" src="https://github.com/user-attachments/assets/6bcd01d0-f4b5-415f-a2ea-71ca9a55df00" />
+
+# 🚀 CD Pipeline (ArgoCD)
+<img width="891" height="1094" alt="image" src="https://github.com/user-attachments/assets/93981a90-0f8b-432f-871b-c86d30d137b6" />
+
+---
 
 ## 🧰 Tools Used
 
